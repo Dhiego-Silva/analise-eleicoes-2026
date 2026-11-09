@@ -1,0 +1,8 @@
+Fonte: https://resultados.tse.jus.br/oficial/ele2026/
+Inicio da coleta: 2026-11-09 18:01:51
+presidente: 12 registros, 1 UFs, 119.300.788 votos (conferir com o total do TSE)
+governador: 182 registros, 27 UFs, 111.854.817 votos (conferir com o total do TSE)
+senador: 300 registros, 27 UFs, 207.410.169 votos (conferir com o total do TSE)
+deputado_federal: 7262 registros, 27 UFs, 110.621.804 votos (conferir com o total do TSE)
+deputado_estadual: 11086 registros, 27 UFs, 106.075.970 votos (conferir com o total do TSE)
+Fim da coleta: 2026-11-09 18:04:22
